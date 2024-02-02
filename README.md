@@ -1,4 +1,4 @@
-# [Your Name]'s Portfolio
+# Tallal Aamir's Portfolio
 
 Welcome to my GitHub repository! This repository serves as a showcase of my work as a web developer and designer. Here you'll find a collection of projects, ranging from web development to design projects, demonstrating my skills and experience in the field.
 
